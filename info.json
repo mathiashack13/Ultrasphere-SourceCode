@@ -1,0 +1,10 @@
+{
+	"title": "Game Redirector",
+	"author": "Kozlowlw",
+	"category": "tool",
+	"version": "1",
+	"description": "python game redirector",
+	"details": "GameRedirectory is a PyNX script for managing your LayeredFs games. Follow the installation and how-to section.\\n\\nFeatures: NPDM editing, moving files between a storage location (/switch/games/) and donors (/atmosphere/titles/), configuration file to keep track of what is where.\\n\\nPlease see the source link for more usage info.",
+	"url": "https://github.com/Kozlowlw/py-switch",
+	"license": "n/a"
+}
